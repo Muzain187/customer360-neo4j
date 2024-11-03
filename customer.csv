@@ -1,0 +1,6 @@
+customer_id,name,age,income_level,risk_score,clv_score,
+C001,Alice Smith,35,High,0.3,60000,
+C002,Bob Johnson,42,Medium,0.5,45000,
+C003,Carol White,29,Low,0.2,20000,
+C004,Dave Black,50,High,0.6,85000,
+C005,Eve Green,38,Medium,0.4,55000,

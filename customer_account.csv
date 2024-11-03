@@ -1,0 +1,6 @@
+customer_id,account_id,relationship_duration
+C001,A001,5 years
+C002,A002,8 years
+C003,A003,2 years
+C004,A004,10 years
+C005,A005,6 years

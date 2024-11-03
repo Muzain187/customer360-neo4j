@@ -1,0 +1,6 @@
+transaction_id,amount,transaction_type,timestamp
+T001,200,Deposit,01-10-2024 12:00
+T002,500,Withdrawal,02-10-2024 15:30
+T003,1000,Transfer,03-10-2024 08:45
+T004,300,Deposit,04-10-2024 17:20
+T005,250,Withdrawal,05-10-2024 13:15

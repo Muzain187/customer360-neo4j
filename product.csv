@@ -1,0 +1,4 @@
+product_id,product_type,interest_rate,recommended_score
+P001,Loan,3.50%,75
+P002,Credit Card,1.50%,80
+P003,Investment,4.00%,90

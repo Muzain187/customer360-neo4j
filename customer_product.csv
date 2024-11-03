@@ -1,0 +1,6 @@
+customer_id,product_id,purchase_date,relationship_status
+C001,P001,15-01-2024,active
+C002,P002,12-05-2023,inactive
+C003,P001,08-10-2022,active
+C004,P003,20-03-2024,active
+C005,P002,25-11-2023,inactive

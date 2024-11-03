@@ -1,0 +1,6 @@
+branch_id,customer_id,visit_frequency
+B001,C001,monthly
+B001,C002,weekly
+B002,C003,monthly
+B003,C004,weekly
+B003,C005,monthly
